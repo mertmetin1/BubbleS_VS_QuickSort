@@ -1,0 +1,8 @@
+Dizi Boyutu	Bubble Sort Suresi (ms)	Quick Sort Suresi (ms)		Bubble Sort K S		Quick Sort K S
+1000		5.00			0.00				499500			10737
+2000		11.00			0.00				1999000			23685
+3000		20.00			0.00				4498500			38397
+Dizi Boyutu	Bubble Sort Suresi (ms)	Quick Sort Suresi (ms)		Bubble Sort K S		Quick Sort K S
+1000		0.00			0.00				499500			11753
+2000		0.00			0.00				1999000			25594
+3000		15.00			0.00				4498500			40520
